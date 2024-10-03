@@ -12,3 +12,61 @@
 .photo{
     height: 100px;
 }
+.link{
+    text-decoration:none;
+}
+
+.link:hover{
+    text-decoration:underline;
+    color: blue;
+}
+
+.heading{
+    font-weight: 700;
+    text-decoration: underline;
+    color: blue;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.nestedUl{
+    margin-left: 20px;
+}
+.skills{
+    font-weight: 600;
+}
+
+.where{
+    font-weight: 500;
+    font-size: 18px;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.info{
+    text-align: left;
+    font-weight: 700;
+}
+
+th,td{
+    padding: 0 20px;
+}
+
+th{
+    background-color: azure;
+}
+td{
+    background-color:antiquewhite;
+}
+
+.details{
+    text-align: left;
+}
+
+
+.bottom{
+    margin-bottom: 20px;
+}
